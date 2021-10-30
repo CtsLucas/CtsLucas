@@ -11,7 +11,7 @@
 
 - 🖥️ Hard Skills - **JavaScript✔️, HTML✔️, CSS✔️**
 
-- 🎯 Objeivo - Ingressar na área de programação para desenvolver-me e alcançar minhas metas.
+- 🎯 Objetivo - Ingressar na área de programação para desenvolver-me e alcançar minhas metas.
 
 <br><br>
 
