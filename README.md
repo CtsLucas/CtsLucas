@@ -5,13 +5,15 @@
 
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistema - UNICSUL
 
-- 🚀 Aluno de Programação - Trilha Discover - Rocketseat
+- 🚀 Aluno de Programação - Trilha Ignite - Rocketseat
 
-- 🗺️ Localidade - Brasil/ São Paulo/SP
+- ⚛️ Aluno de Programação - JStack - React
 
-- 🖥️ Hard Skills - **JavaScript✔️, HTML✔️, CSS✔️**
+- 🗺️ Localidade - Brasil/ São Paulo/ SP
 
-- 🎯 Objetivo - Ingressar na área de programação para desenvolver-me e alcançar minhas metas.
+- 🖥️ Hard Skills - **React✔️, NodeJS✔️, JavaScript✔️ HTML✔️, CSS✔️, GIT✔️**
+
+- 🎯 Objetivo - Especializar em React.JS
 
 <br><br>
 
