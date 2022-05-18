@@ -1,17 +1,17 @@
-<img align="right" height="590em" src=https://raw.githubusercontent.com/gist/CtsLucas/d466fa5a511108a0b0ffd7180f3fd86c/raw/9a79ce4d95148e9cbb0c0910df1c1f0d77e72976/githubcard.svg/>
-
 <h1 align="left">Olá Mundo!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br> Eu sou Lucas Cavalcante</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CtsLucas&color=blue" alt="Profile views" /> </p>
 
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistema - UNICSUL
+- 👨‍💻 Desenvolvedor Mobile Flutter - Maitha Tech
 
-- 🚀 Aluno de Programação - Trilha Ignite - Rocketseat
+- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistema - UNICSUL 2º/4º
 
-- ⚛️ Aluno de Programação - JStack - React
+- 🚀 Cursando Desenvolvimento Full Stack -  Rocketseat
+
+- ⚛️ Cursando Desenvolvimento Full Stack - JStack 
 
 - 🗺️ Localidade - Brasil/ São Paulo/ SP
 
-- 🖥️ Hard Skills - **React✔️, NodeJS✔️, JavaScript✔️ HTML✔️, CSS✔️, GIT✔️**
+- 🖥️ Hard Skills - **React✔️, React Native✔️, Flutter✔️, NodeJS✔️, JavaScript✔️ HTML✔️, CSS✔️, GIT✔️**
 
 - 🎯 Objetivo - Especializar em React.JS
 
