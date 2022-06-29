@@ -29,13 +29,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp; Análises GitHub 
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=CtsLucas&show_icons=true&theme=nightowl" alt="Lucas stats"/>
-</p>
-
-<br><br>
 
 ## 🧑‍💻 &nbsp;Mídias Sociais
 
