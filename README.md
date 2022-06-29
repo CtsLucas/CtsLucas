@@ -29,6 +29,14 @@
 
 <br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=CtsLucas" alt="Lucas stats"/>
+</p>
+
+<br><br>
 
 ## 🧑‍💻 &nbsp;Mídias Sociais
 
