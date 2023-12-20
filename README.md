@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨‍💻 - Desenvolvedor Full Stack - NSH Technologies<br><br>👨‍🎓 - Graduando em Análise e Desenvolvimento de Sistema - UNICSUL 4º/4º<br><br>🚀 - Cursando Desenvolvimento Full Stack - Rocketseat<br><br>⚛️ - Cursando Desenvolvimento Full Stack - JStack<br><br>⭐️ - Cursando Desenvolvimento Full Cycle - Staart<br><br>🎯 - Objetivos - Especialização em React  | Atingir a independência financeira.<br><br>🗺️ - Localidade - Brasil/ São Paulo/ SP</p>
+<p align="left">👨‍💻 - Desenvolvedor Full Stack - NSH Technologies<br><br>👨‍🎓 - Graduado em Análise e Desenvolvimento de Sistema - UNICSUL <br><br>🚀 - Cursando Desenvolvimento Full Stack - Rocketseat<br><br>⚛️ - Cursando Desenvolvimento Full Stack - JStack<br><br>⭐️ - Cursando Desenvolvimento Full Cycle - Staart<br><br>🎯 - Objetivos - Especialização em React  | Atingir a independência financeira.<br><br>🗺️ - Localidade - Brasil/ São Paulo/ SP</p>
 
 ###
 
